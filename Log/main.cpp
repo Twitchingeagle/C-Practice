@@ -1,6 +1,6 @@
 //
 //  main.cpp
-//  C++ Practice
+//  Log
 //
 //  Created by Branden Arms on 10/24/22.
 //
